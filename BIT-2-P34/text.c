@@ -134,7 +134,7 @@
 //}
 //int main()
 //{
-//	void(*p)(char*) = Print;	//p - 函数指针
+//	void(*p)(char*) = Print;	//p - 函数指针 - void(* )(char*) -- 函数指针类型  -- p --为变量
 //	(*p)("asddfad");	//asddfad
 //	return 0;
 //}
